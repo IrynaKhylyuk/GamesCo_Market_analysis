@@ -1,4 +1,4 @@
-# GamesCo_Market_analysis
+# GamesCo_Market_analysis_Excel
 New video game company, GameCo, wants to use data to inform the development of new games. 
 
 ## OBJECTIVE  
